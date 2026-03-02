@@ -9,9 +9,9 @@ print(a==b);
 print(identical(a, b));
 
 
-//String nama1 = "Oca";
-//String nama2 = "Oca";percobaan 4 ganti huruf kecil
-//print(nama1 == nama2);
-//print(identical(nama1, nama2)); percobaan3
+String nama1 = "Oca";
+String nama2 = "ocA";
+print(nama1 == nama2);
+print(identical(nama1, nama2)); 
 
 }
