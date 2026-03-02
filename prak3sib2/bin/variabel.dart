@@ -16,5 +16,5 @@ void main(List<String> arguments) {
 
     List<String> names = ['Alice', 'Bob', 'Charlie'];
     print(names);
-    print('nama yang ke 1 adalah: $names[0]');
+    print('nama yang ke 1 adalah: ${names[0]}');
 }
